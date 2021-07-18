@@ -1,0 +1,1 @@
+window.momose = new MomoseAppController
